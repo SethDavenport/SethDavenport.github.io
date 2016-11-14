@@ -1,0 +1,26 @@
+.remark-slide-content {
+  background: #230e2d;
+  color: white;
+  font-family: Calibre, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+/*  color: #e5373a; */
+  font-weight: normal;
+}
+
+.diagram img {
+  display: block;
+  height: 100%;
+  width: 100%;
+}
+
+.mugshot img {
+  height: 150px;
+  border: solid white 2px;
+  margin: 5px;
+}
+
+.divider {
+  background: #e5373a;
+}
